@@ -1,0 +1,16 @@
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\bin\Debug\Loadshedding.exe.config
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\bin\Debug\Loadshedding.exe
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\bin\Debug\Loadshedding.pdb
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.MainForm.resources
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.FullView.resources
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.Maindisplay.resources
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.Plan.resources
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.Properties.Resources.resources
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.Settings.resources
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.csproj.GenerateResource.Cache
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.exe
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.pdb
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\bin\Debug\Loadshedding.exe.manifest
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\bin\Debug\Loadshedding.application
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.exe.manifest
+c:\users\picovico\documents\visual studio 2012\Projects\Loadshedding\Loadshedding\obj\Debug\Loadshedding.application
