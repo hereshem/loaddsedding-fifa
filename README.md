@@ -8,7 +8,7 @@ IDE Environment used : Visual Studio 2013
 
 Language used : C#
 
-Project loadsedding features (Planning)
+**Project loadsedding features** *(Planning)*
 
 - Current status for loadsedding
 - Compare Groups for electricity availablility
